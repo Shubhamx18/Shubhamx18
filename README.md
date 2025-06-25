@@ -1,3 +1,4 @@
+![logo](https://github.com/Shubhamx18/Shubhamx18/blob/main/laptop-with-glowing-screen-table-dark-top-view-copy-space.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Mali</h1>
 <h3 align="center">📚 On a journey to learn and create</h3>
 
