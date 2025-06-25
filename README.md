@@ -2,7 +2,7 @@
 <h3 align="center">📚 On a journey to learn and create</h3>
 
 <p align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coder at work" width="400" />
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coder at work" width="399" />
 </p>
 
 
